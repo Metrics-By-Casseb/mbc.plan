@@ -17,8 +17,8 @@ Este projeto envolve atender demandas pessoais do meu escritório home-office, t
 ## Modo de organização
 
 Será organizado com as seguintes pastas:
-- original: Diretório onde será armazenado todos os diagramas editáveis do projeto
-- png: Diretório onde será armazenado todos os diagramas em png do projeto
+- original: Diretório onde será armazenado todos os arquivos de planejamento editáveis do projeto.
+- png: Diretório onde será armazenado todos os arquivos de planejamento em png do projeto.
 
 ## Wiki
 
